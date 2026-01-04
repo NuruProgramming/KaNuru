@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/NuruProgramming/Nuru/repl"
+	"github.com/NuruProgramming/KaNuru/repl"
 )
 
 var (
