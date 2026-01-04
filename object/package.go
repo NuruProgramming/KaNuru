@@ -3,7 +3,7 @@ package object
 import (
 	"fmt"
 
-	"github.com/NuruProgramming/Nuru/ast"
+	"github.com/NuruProgramming/KaNuru/ast"
 )
 
 type Package struct {

@@ -1,8 +1,8 @@
 package evaluator
 
 import (
-	"github.com/NuruProgramming/Nuru/ast"
-	"github.com/NuruProgramming/Nuru/object"
+	"github.com/NuruProgramming/KaNuru/ast"
+	"github.com/NuruProgramming/KaNuru/object"
 )
 
 func evalCall(node *ast.CallExpression, env *object.Environment) object.Object {

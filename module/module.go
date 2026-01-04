@@ -1,6 +1,6 @@
 package module
 
-import "github.com/NuruProgramming/Nuru/object"
+import "github.com/NuruProgramming/KaNuru/object"
 
 var Mapper = map[string]*object.Module{}
 

@@ -3,7 +3,7 @@ package parser
 import (
 	"fmt"
 
-	"github.com/NuruProgramming/Nuru/ast"
+	"github.com/NuruProgramming/KaNuru/ast"
 )
 
 func (p *Parser) parseAssignEqualExpression(exp ast.Expression) ast.Expression {

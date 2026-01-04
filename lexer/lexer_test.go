@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"github.com/NuruProgramming/Nuru/token"
+	"github.com/NuruProgramming/KaNuru/token"
 )
 
 func TestNextToken(t *testing.T) {
@@ -43,7 +43,7 @@ func TestNextToken(t *testing.T) {
 	{"mambo": "vipi"}
 	. // test dot
 	tumia muda
-	
+
 	badili (a) {
 		ikiwa 2 {
 			andika(2)
@@ -52,9 +52,9 @@ func TestNextToken(t *testing.T) {
 			andika(0)
 		}
 	}
-	
+
 	tupu
-	
+
 	kwa i, v ktk j`
 
 	tests := []struct {

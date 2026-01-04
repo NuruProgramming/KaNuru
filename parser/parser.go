@@ -3,9 +3,9 @@ package parser
 import (
 	"fmt"
 
-	"github.com/NuruProgramming/Nuru/ast"
-	"github.com/NuruProgramming/Nuru/lexer"
-	"github.com/NuruProgramming/Nuru/token"
+	"github.com/NuruProgramming/KaNuru/ast"
+	"github.com/NuruProgramming/KaNuru/lexer"
+	"github.com/NuruProgramming/KaNuru/token"
 )
 
 const (

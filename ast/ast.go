@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strings"
 
-	"github.com/NuruProgramming/Nuru/token"
+	"github.com/NuruProgramming/KaNuru/token"
 )
 
 type Node interface {

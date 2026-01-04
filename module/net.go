@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/NuruProgramming/Nuru/object"
+	"github.com/NuruProgramming/KaNuru/object"
 )
 
 var NetFunctions = map[string]object.ModuleFunction{}

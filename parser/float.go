@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/NuruProgramming/Nuru/ast"
+	"github.com/NuruProgramming/KaNuru/ast"
 )
 
 func (p *Parser) parseFloatLiteral() ast.Expression {

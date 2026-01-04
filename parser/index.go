@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/NuruProgramming/Nuru/ast"
-	"github.com/NuruProgramming/Nuru/token"
+	"github.com/NuruProgramming/KaNuru/ast"
+	"github.com/NuruProgramming/KaNuru/token"
 )
 
 func (p *Parser) parseIndexExpression(left ast.Expression) ast.Expression {

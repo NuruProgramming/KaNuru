@@ -6,11 +6,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/NuruProgramming/Nuru/ast"
-	"github.com/NuruProgramming/Nuru/lexer"
-	"github.com/NuruProgramming/Nuru/module"
-	"github.com/NuruProgramming/Nuru/object"
-	"github.com/NuruProgramming/Nuru/parser"
+	"github.com/NuruProgramming/KaNuru/ast"
+	"github.com/NuruProgramming/KaNuru/lexer"
+	"github.com/NuruProgramming/KaNuru/module"
+	"github.com/NuruProgramming/KaNuru/object"
+	"github.com/NuruProgramming/KaNuru/parser"
 )
 
 var searchPaths []string

@@ -3,8 +3,8 @@ package parser
 import (
 	"fmt"
 
-	"github.com/NuruProgramming/Nuru/ast"
-	"github.com/NuruProgramming/Nuru/token"
+	"github.com/NuruProgramming/KaNuru/ast"
+	"github.com/NuruProgramming/KaNuru/token"
 )
 
 func (p *Parser) parseSwitchStatement() ast.Expression {

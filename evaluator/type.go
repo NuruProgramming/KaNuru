@@ -3,7 +3,7 @@ package evaluator
 import (
 	"strconv"
 
-	"github.com/NuruProgramming/Nuru/object"
+	"github.com/NuruProgramming/KaNuru/object"
 )
 
 func convertToInteger(obj object.Object) object.Object {

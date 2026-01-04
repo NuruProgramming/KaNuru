@@ -9,10 +9,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/NuruProgramming/Nuru/evaluator"
-	"github.com/NuruProgramming/Nuru/lexer"
-	"github.com/NuruProgramming/Nuru/object"
-	"github.com/NuruProgramming/Nuru/parser"
+	"github.com/NuruProgramming/KaNuru/evaluator"
+	"github.com/NuruProgramming/KaNuru/lexer"
+	"github.com/NuruProgramming/KaNuru/object"
+	"github.com/NuruProgramming/KaNuru/parser"
 )
 
 const prompt = ">>> "
